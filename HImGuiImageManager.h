@@ -13,8 +13,8 @@
 #define HIMAGE_MANAGER_GIF_IMAGE_ENABLED 1    //If you do not want to use this function, please change it to '0'
 #endif // !HIMAGE_MANAGER_GIF_IMAGE_ENABLED
 #ifndef HIMAGE_MANAGER_URL_IMAGE_ENABLED
-#define HIMAGE_MANAGER_URL_IMAGE_ENABLED 1    //If you need use this function, please change it to '1' (Need 'httplib.h'  Download ->  https://github.com/yhirose/cpp-httplib/tree/master)
-#define HIMAGE_MANAGER_URL_OPENSSL_SUPPORT 1  //if you need OpenSSL support ,Please change it to '1'  (Need 'OpenSSL' (cpp-httplib currently supports only version 3.0 or later.)Download -> https://github.com/openssl/openssl/tree/master  Build->https://github.com/openssl/openssl/blob/master/INSTALL.md#building-openssl)
+#define HIMAGE_MANAGER_URL_IMAGE_ENABLED 0    //If you need use this function, please change it to '1' (Need 'httplib.h'  Download ->  https://github.com/yhirose/cpp-httplib/tree/master)
+#define HIMAGE_MANAGER_URL_OPENSSL_SUPPORT 0  //if you need OpenSSL support ,Please change it to '1'  (Need 'OpenSSL' (cpp-httplib currently supports only version 3.0 or later.)Download -> https://github.com/openssl/openssl/tree/master  Build->https://github.com/openssl/openssl/blob/master/INSTALL.md#building-openssl)
 //https://youtu.be/PMHEoBkxYaQ?si=fYpChXxw_uEitGMT If you still can't understand it after watching the documentation, you can watch this video. His teachings are very detailed. I think it can help you.
 #endif
 

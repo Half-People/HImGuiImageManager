@@ -10,7 +10,8 @@
 #include "stb_image.h"
 #include <unordered_map>
 #include <string>
-
+#include <sstream>
+#include <iostream>
 #include "imgui_internal.h"
 #include <fstream>
 #if HIMAGE_MANAGER_URL_IMAGE_ENABLED || HIMAGE_MANAGER_GIF_IMAGE_ENABLED
@@ -1402,7 +1403,7 @@ void HImageManager::ShowResourceManager(bool* p_open)
 	ImGui::End();
 }
 
-const char* HImageManager::ImageToBitCode_DevelopmentTool(const char* filename, bool print = false)
+const char* HImageManager::ImageToBitCode_DevelopmentTool(const char* filename, bool print)
 {
 	FILE* f = stbi__fopen(filename, "rb");
 	if (!f)

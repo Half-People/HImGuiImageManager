@@ -1,6 +1,9 @@
 # HImGuiImageManager 📦
 
-![ImGui Logo](https://raw.githubusercontent.com/wiki/ocornut/imgui/web/v184/logo.png)
+[Docs](README.md)
+
+![DEMO](https://github.com/user-attachments/assets/9aadf254-b842-454e-85d1-dd678ed14bad)
+![LOGO_DEMO](https://github.com/user-attachments/assets/679ccc1a-01b6-4df3-badb-256ee36637a0)
 
 **穩定版本**  
 **HImGuiImageManager** 是一個為 [Dear ImGui](https://github.com/ocornut/imgui) 設計的 C++ 圖像管理庫，旨在簡化圖像的載入、顯示和管理流程。它支援從檔案、記憶體或 URL 載入圖像，並提供 GIF 動畫支援、圖像按鈕和自訂繪製功能，非常適合用於構建動態且視覺豐富的 ImGui 介面。

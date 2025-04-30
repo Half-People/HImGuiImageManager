@@ -1,6 +1,6 @@
 # HImGuiImageManager 📦
 
-[Docs](README.md)
+[Docs](../README.md)
 
 ![DEMO](https://github.com/user-attachments/assets/9aadf254-b842-454e-85d1-dd678ed14bad)
 ![LOGO_DEMO](https://github.com/user-attachments/assets/679ccc1a-01b6-4df3-badb-256ee36637a0)

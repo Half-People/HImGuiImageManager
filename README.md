@@ -1,5 +1,3 @@
-[繁體中文文檔](docs/README_zh-TW.md)
-
 HImGuiImageManager 📦
 
 Stable VersionHImGuiImageManager is a powerful C++ library for Dear ImGui, designed to streamline image loading, display, and management. It supports loading images from files, memory, or URLs, with built-in GIF animation support, image buttons, and custom drawing capabilities. Perfect for creating dynamic and visually rich ImGui interfaces.
